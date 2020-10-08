@@ -1,0 +1,27 @@
+h2 {
+  font-size: 36px;
+  color:White;
+  font-family: "Times New Roman";
+}
+
+h1 {
+  font-size: 26px;
+  color:White;
+  font-family: "Times New Roman";
+}
+
+p {
+  font-size: 24px;
+  color:Black;
+  font-family: "Times New Roman";
+  background-color:White
+}
+body {
+  background-image: url("background.png");
+}
+table, th, td {
+  border: 1px solid white;
+  font-size: 24px;
+  color:White;
+  font-family: "Times New Roman";
+}
